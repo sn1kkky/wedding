@@ -20,17 +20,15 @@ h1{
 }
 
 h2{
-    padding-top: 200px;
     text-align: center;
     color: #000000;
     font-size: 70px;
 }
-
-h3{
-    padding-left: 570px;
-    position: relative;
-    width: 10%;
-    height: 10px;
+img{
+    padding-left: 29%;
+    display: flex;
+    max-width: 100%;
+    height: auto;
 }
 
 h5{ 
@@ -39,17 +37,8 @@ h5{
     font-size: 70px;
 }
 
-h6{
-    padding-top: 380px;
-    padding-left: 700px;
-    position: relative;
-    width: 10%;
-    height: 10px;
-}
-
 p{
     text-align: center;
     color: black; 
     font-size: 30px;
 }
- 
